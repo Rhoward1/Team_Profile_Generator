@@ -1,5 +1,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+
+const generatePage = require('./lib/mainTemplate');
+
 const allEmployees = [];
 
 const questions = [
