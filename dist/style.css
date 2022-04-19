@@ -1,0 +1,54 @@
+
+
+
+
+
+.jumbotron{
+    background-color: rgb(56, 55, 55);
+    text-align: center;
+    color:aliceblue
+
+}
+
+
+.col-md{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+   
+}
+
+
+.card{
+    
+    filter: drop-shadow(15px 5px 10px #3d3d3e);
+    width:auto
+}
+.cardHeader{
+    background-color: rgb(211, 211, 211);
+    
+    margin-left: 5px;
+    margin-botton: 5px;
+}
+
+.card-body{
+
+    background-color:  rgb(211, 211, 211); ;
+}
+h5{
+   margin-left: 15px;
+   font-weight: bold;
+   font-size: 20px;
+
+
+}
+i{
+    font-size: 30px;
+    margin-left:15px;
+}
+  
+    
+    
+
+
