@@ -22,7 +22,7 @@
 ## Usage Information
 - Here is a link to the demo video https://youtu.be/oDbidra_LGM
 - Here is a screenshot of the generated HTML page.
-- ![App Screenshot](./Team_Profile.png)
+- ![App Screenshot](./team_profile.png)
 
 ## Contributors on this Project
 - None
